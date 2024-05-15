@@ -33,6 +33,10 @@ In Dragon Repeller, you play as a courageous hero determined to rid the town of 
 
 2. Open the `index.html` file in your web browser to start playing the game.
 
+OR
+
+1. Go to https://ash-taraghi.github.io/RPG-JS/
+
 ## How to Play
 
 1. **Starting the Game**:
@@ -56,7 +60,7 @@ In Dragon Repeller, you play as a courageous hero determined to rid the town of 
 
 ## Contributing
 
-Dragon Repeller is an open-source project, and contributions are welcome! If you have suggestions, bug fixes, or new features to propose, feel free to submit a pull request.
+Dragon Repeller is an open-source project, and contributions are welcome! Rights go to [FreeCodeCamp.org](https://www.freecodecamp.org) as I did this based off their JavaScript program. If you have suggestions, bug fixes, or new features to propose, feel free to submit a pull request.
 
 ## License
 
